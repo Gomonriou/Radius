@@ -1,1 +1,385 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T08:41:22.127Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.12" etag="0W2qTXEDs-u5vMoipVq3" type="github"><diagram id="uh6gW1chY_rLJwNv5sbK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-17T14:59:41.597Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="CvBCfjaBDcpbhmJStbz2" version="14.6.12" type="github">
+  <diagram id="uh6gW1chY_rLJwNv5sbK" name="Page-1">
+    <mxGraphModel dx="3098" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-2" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-4" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="140" as="sourcePoint" />
+            <mxPoint x="130" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-5" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="140" as="sourcePoint" />
+            <mxPoint x="190" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="140" as="sourcePoint" />
+            <mxPoint x="150" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-8" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="130" as="sourcePoint" />
+            <mxPoint x="140" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-9" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="130" as="sourcePoint" />
+            <mxPoint x="160" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-10" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="130" as="sourcePoint" />
+            <mxPoint x="175" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-11" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="130" as="sourcePoint" />
+            <mxPoint x="150" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-15" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="1680" as="sourcePoint" />
+            <mxPoint x="660" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-16" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1684" as="sourcePoint" />
+            <mxPoint x="140" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-19" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="320" as="sourcePoint" />
+            <mxPoint x="140" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-21" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="480" as="sourcePoint" />
+            <mxPoint x="140" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-22" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="440" as="sourcePoint" />
+            <mxPoint x="140" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-23" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="640" as="sourcePoint" />
+            <mxPoint x="660" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-25" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="200" as="sourcePoint" />
+            <mxPoint x="660" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Client Hello&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-27" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="200" as="sourcePoint" />
+            <mxPoint x="660" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-28" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Server Hello&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-29" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="320" as="sourcePoint" />
+            <mxPoint x="140" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-30" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="520" as="sourcePoint" />
+            <mxPoint x="140" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-31" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="560" as="sourcePoint" />
+            <mxPoint x="140" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-32" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Certificate&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-33" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="440" as="sourcePoint" />
+            <mxPoint x="140" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-34" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Server Key exchange&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="470" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-35" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="480" as="sourcePoint" />
+            <mxPoint x="140" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-36" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Certificate request&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-37" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="520" as="sourcePoint" />
+            <mxPoint x="140" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-38" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Server Hello done&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="550" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-39" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="560" as="sourcePoint" />
+            <mxPoint x="140" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-40" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Certificate&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="670" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-41" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="640" as="sourcePoint" />
+            <mxPoint x="660" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-46" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="680" as="sourcePoint" />
+            <mxPoint x="660" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-47" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="720" as="sourcePoint" />
+            <mxPoint x="660" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-48" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="760" as="sourcePoint" />
+            <mxPoint x="660" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-43" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Certificate verify&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="742" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-49" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="720" as="sourcePoint" />
+            <mxPoint x="660" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-42" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Client Key exchange&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="273" y="702" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-50" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="680" as="sourcePoint" />
+            <mxPoint x="660" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-44" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Change cipher spec&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="269" y="782" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-51" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="760" as="sourcePoint" />
+            <mxPoint x="660" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-52" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="802" as="sourcePoint" />
+            <mxPoint x="660" y="882" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-45" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Encrypted handshake message&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="273" y="830" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-53" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="802" as="sourcePoint" />
+            <mxPoint x="660" y="882" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-54" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="960" as="sourcePoint" />
+            <mxPoint x="140" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-55" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1160" as="sourcePoint" />
+            <mxPoint x="660" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-56" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="1000" as="sourcePoint" />
+            <mxPoint x="140" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-57" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Change cipher spec&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="990" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-58" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="960" as="sourcePoint" />
+            <mxPoint x="140" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-59" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Encrypted handshake message&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1036" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-60" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="1000" as="sourcePoint" />
+            <mxPoint x="140" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-61" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Complete&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1190" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-62" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1160" as="sourcePoint" />
+            <mxPoint x="660" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-64" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="1280" as="sourcePoint" />
+            <mxPoint x="140" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-63" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Succes&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="1310" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-65" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="1280" as="sourcePoint" />
+            <mxPoint x="140" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-66" value="" style="endArrow=classic;html=1;startArrow=none;" edge="1" parent="1" source="9RfAb2sHI4tMuBAtPPrT-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="1400" as="sourcePoint" />
+            <mxPoint x="140" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-67" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Key&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1390" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-68" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="9RfAb2sHI4tMuBAtPPrT-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="1400" as="sourcePoint" />
+            <mxPoint x="140" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-69" value="Choix de l’algorithme de chiffrement (AES-256)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-70" value="Envoi du certificat serveur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="420" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-71" value="Clé publique du serveur&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="460" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-72" value="Demande au client un certificat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="500" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-73" value="Indique la fin de la réponse serveur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="540" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-74" value="Propose des paramètres cryptographique" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="180" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-75" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-ac428027-7fff-62bc-7d94-6d9861193b66&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: roboto, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Le client et le serveur négocient les paramètres de sécurité (comme les valeurs aléatoires, l’algorithme d’échange de clés, l’algorithme de chiffrement, la fonction de hachage, etc.)&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="265" width="520" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-77" value="Envoi du certificat client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="620" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-78" value="Choix du &#39;premaster sercret&#39;, création variable en fonction d&#39;un certificat client ou non." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="662" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-79" value="vérification explicite" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="710" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-80" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-170" y="687" as="sourcePoint" />
+            <mxPoint x="-40" y="687" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-81" value="COmment?&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="672" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-82" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-170" y="690" as="sourcePoint" />
+            <mxPoint x="-20" y="729.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-83" value="indique passage en mode chiffrement symetrique" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="742" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-84" value="Vérification de la nouvelle clé de chiffrement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="782" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-85" value="Envoi de la clef WPA préalablement chiffré et signé" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1375" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-86" value="&lt;ul style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc ; font-size: 14pt ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline ; margin-left: -18pt&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-size: 14pt&quot;&gt;A la fin de la phase d’authentification, le serveur envoie la clé de chiffrement au point d’accès en utilisant l’attribut RADIUS &quot;MS-MPPE-Recv-Key&quot;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1270" width="550" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-87" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;ul style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc ; font-size: 14pt ; font-family: &amp;quot;roboto&amp;quot; , sans-serif ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline ; margin-left: -18pt&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 14pt ; font-family: &amp;quot;roboto&amp;quot; , sans-serif ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;durant cette phase, le client et le serveur vérifient l’intégrité de leurs échanges en calculant le condensât de tous les messages transmis et reçus et en chiffrant le résultat avec la clé de chiffrement calculée durant l’étape 2.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="870" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-88" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;size=0.12903225806451613;" vertex="1" parent="1">
+          <mxGeometry x="660" y="830" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-89" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;size=0.12903225806451613;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1200" width="310" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-91" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;ul style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc ; font-size: 14pt ; font-family: &amp;quot;roboto&amp;quot; , sans-serif ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline ; margin-left: -18pt&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-size: 14pt&quot;&gt;cette étape consiste à calculer les clés cryptographiques de la session. Ces clés seront utilisées dans les opérations cryptographiques afin de protéger les données durant leurs transfert. Les opérations cryptographiques utilisent les algorithmes cryptographiques négociés durant l’étape 1.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="540" width="550" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-92" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;size=0.12903225806451613;" vertex="1" parent="1">
+          <mxGeometry x="660" y="220" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9RfAb2sHI4tMuBAtPPrT-93" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;size=0.12903225806451613;" vertex="1" parent="1">
+          <mxGeometry x="660" y="420" width="310" height="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
