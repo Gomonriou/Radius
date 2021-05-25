@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T10:34:50.228Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2RIO2IA6tNLEE3Uq3N94" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T09:07:34.245Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QXlJT_pwdLPofMi85rHN" version="14.6.13" type="github">
   <diagram id="uh6gW1chY_rLJwNv5sbK" name="Page-1">
-    <mxGraphModel dx="3244" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3925" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -334,9 +334,6 @@
         <mxCell id="9RfAb2sHI4tMuBAtPPrT-74" value="Propose des paramètres cryptographique" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-40" y="220" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9RfAb2sHI4tMuBAtPPrT-75" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-ac428027-7fff-62bc-7d94-6d9861193b66&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: roboto, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Le client et le serveur négocient les paramètres de sécurité (comme les valeurs aléatoires, l’algorithme d’échange de clés, l’algorithme de chiffrement, la fonction de hachage, etc.)&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="305" width="520" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="9RfAb2sHI4tMuBAtPPrT-77" value="Envoi du certificat client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-40" y="660" width="170" height="40" as="geometry" />
         </mxCell>
@@ -344,22 +341,7 @@
           <mxGeometry x="-40" y="702" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9RfAb2sHI4tMuBAtPPrT-79" value="vérification explicite" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="750" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9RfAb2sHI4tMuBAtPPrT-80" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="727" as="sourcePoint" />
-            <mxPoint x="-40" y="727" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9RfAb2sHI4tMuBAtPPrT-81" value="COmment?&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="712" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="9RfAb2sHI4tMuBAtPPrT-82" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="730" as="sourcePoint" />
-            <mxPoint x="-20" y="769.5" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-30" y="742" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9RfAb2sHI4tMuBAtPPrT-83" value="indique passage en mode chiffrement symetrique" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-30" y="782" width="170" height="40" as="geometry" />
@@ -370,15 +352,6 @@
         <mxCell id="9RfAb2sHI4tMuBAtPPrT-85" value="Envoi de la clef WPA préalablement chiffré et signé" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="1415" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9RfAb2sHI4tMuBAtPPrT-86" value="&lt;ul style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc ; font-size: 14pt ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline ; margin-left: -18pt&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-size: 14pt&quot;&gt;A la fin de la phase d’authentification, le serveur envoie la clé de chiffrement au point d’accès en utilisant l’attribut RADIUS &quot;MS-MPPE-Recv-Key&quot;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;font face=&quot;roboto, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;roboto, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;roboto, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px&quot;&gt;C EST LE PRINCIPE DU WPA2 ENTREPRISE, la clé est negocié entre les deuxacteurs, dans un reseau privé elle est fixe et correspond au mdp qu&#39;on rentre&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1310" width="550" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="9RfAb2sHI4tMuBAtPPrT-87" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;ul style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc ; font-size: 14pt ; font-family: &amp;quot;roboto&amp;quot; , sans-serif ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline ; margin-left: -18pt&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 14pt ; font-family: &amp;quot;roboto&amp;quot; , sans-serif ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;durant cette phase, le client et le serveur vérifient l’intégrité de leurs échanges en calculant le condensât de tous les messages transmis et reçus et en chiffrant le résultat avec la clé de chiffrement calculée durant l’étape 2.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="910" width="550" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="9RfAb2sHI4tMuBAtPPrT-91" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;ul style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: disc ; font-size: 14pt ; font-family: &amp;quot;roboto&amp;quot; , sans-serif ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline ; margin-left: -18pt&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-size: 14pt&quot;&gt;cette étape consiste à calculer les clés cryptographiques de la session. Ces clés seront utilisées dans les opérations cryptographiques afin de protéger les données durant leurs transfert. Les opérations cryptographiques utilisent les algorithmes cryptographiques négociés durant l’étape 1.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="580" width="550" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="9RfAb2sHI4tMuBAtPPrT-94" value="&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Client&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="40" width="120" height="20" as="geometry" />
         </mxCell>
@@ -386,7 +359,7 @@
           <mxGeometry x="600" y="40" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9RfAb2sHI4tMuBAtPPrT-102" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-960" y="570.4199999999998" width="670" height="231.58" as="geometry" />
+          <mxGeometry x="-960" y="564.2099999999998" width="670" height="231.58" as="geometry" />
         </mxCell>
         <mxCell id="9RfAb2sHI4tMuBAtPPrT-96" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" parent="9RfAb2sHI4tMuBAtPPrT-102" edge="1">
           <mxGeometry width="49.999999999999964" height="52.25652134669191" as="geometry">
@@ -405,6 +378,18 @@
             <mxPoint y="231.27691217618926" as="sourcePoint" />
             <mxPoint x="670" y="231.58" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tZpt3HMYae_ypeG9TXUM-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;cette étape consiste à calculer les clés cryptographiques de la session. Ces clés seront utilisées dans les opérations cryptographiques afin de protéger les données durant leurs transfert. Les opérations cryptographiques utilisent les algorithmes cryptographiques négociés durant l’étape 1.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="975" y="592" width="550" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="tZpt3HMYae_ypeG9TXUM-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;durant cette phase, le client et le serveur vérifient l’intégrité de leurs échanges en calculant le condensât de tous les messages transmis et reçus et en chiffrant le résultat avec la clé de chiffrement calculée durant l’étape 2.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="975" y="910" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tZpt3HMYae_ypeG9TXUM-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;A la fin de la phase d’authentification, le serveur envoie la clé de chiffrement au point d’accès.C&#39;est le principe du wpa2 entreprise,&amp;nbsp;la clé est négociée entre les deux acteurs.&lt;br&gt;&lt;br&gt;(dans un réseau privé elle est fixe et correspond au mot de passe de la box)&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1300" width="550" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tZpt3HMYae_ypeG9TXUM-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Le client et le serveur négocient les paramètres de sécurité (comme les valeurs aléatoires, l’algorithme d’échange de clés, l’algorithme de chiffrement, la fonction de hachage, etc.)&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="975" y="320" width="550" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
