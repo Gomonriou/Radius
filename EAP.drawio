@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T19:54:30.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="OAU_OiO4y-yEcJe4DnSh" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-22T11:23:43.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="KS0qPRTIdCYRzC8w901g" version="14.9.6" type="github">
   <diagram id="HzjkVY2fwmPDiXJtHkTc" name="Page-1">
-    <mxGraphModel dx="1422" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,7 @@
         <mxCell id="t6JFnCip03gUoqNeVWKe-25" value="NAS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="20" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t6JFnCip03gUoqNeVWKe-26" value="Serveur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="t6JFnCip03gUoqNeVWKe-26" value="Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="20" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t6JFnCip03gUoqNeVWKe-28" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -104,7 +104,7 @@
         <mxCell id="t6JFnCip03gUoqNeVWKe-30" value="EAPol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="-30" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t6JFnCip03gUoqNeVWKe-31" value="Radius" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="t6JFnCip03gUoqNeVWKe-31" value="RADIUS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="-30" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t6JFnCip03gUoqNeVWKe-35" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.064;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" parent="1" source="t6JFnCip03gUoqNeVWKe-32" target="t6JFnCip03gUoqNeVWKe-22" edge="1">
@@ -171,23 +171,17 @@
             <mxPoint x="34" y="360.67999999999984" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t6JFnCip03gUoqNeVWKe-52" value="" style="endArrow=classic;html=1;exitX=0.188;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="t6JFnCip03gUoqNeVWKe-52" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" parent="1" edge="1" source="t6JFnCip03gUoqNeVWKe-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="782.5" y="570" as="sourcePoint" />
             <mxPoint x="387.5" y="570.6799999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t6JFnCip03gUoqNeVWKe-53" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+        <mxCell id="t6JFnCip03gUoqNeVWKe-53" value="" style="endArrow=classic;html=1;startArrow=none;" parent="1" edge="1" source="t6JFnCip03gUoqNeVWKe-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="365" y="570.3199999999999" as="sourcePoint" />
             <mxPoint x="40" y="570" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="t6JFnCip03gUoqNeVWKe-54" value="Renvoie ACCEPT/REJECT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="590" width="150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="t6JFnCip03gUoqNeVWKe-55" value="Transfert" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="150" y="585" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t6JFnCip03gUoqNeVWKe-56" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -207,8 +201,8 @@
             <mxPoint x="660" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t6JFnCip03gUoqNeVWKe-46" value="Transfert" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="552.5" y="310" width="67.5" height="20" as="geometry" />
+        <mxCell id="t6JFnCip03gUoqNeVWKe-46" value="Transfert du message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="522.51" y="310" width="127.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t6JFnCip03gUoqNeVWKe-59" value="" style="endArrow=none;html=1;exitX=0.125;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="t6JFnCip03gUoqNeVWKe-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -225,8 +219,8 @@
             <mxPoint x="390" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t6JFnCip03gUoqNeVWKe-34" value="Transfert" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="546.25" y="230" width="80" height="20" as="geometry" />
+        <mxCell id="t6JFnCip03gUoqNeVWKe-34" value="Transfert du message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="524.38" y="230" width="123.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t6JFnCip03gUoqNeVWKe-61" value="" style="endArrow=none;html=1;exitX=0.125;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t6JFnCip03gUoqNeVWKe-20" target="t6JFnCip03gUoqNeVWKe-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -235,7 +229,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t6JFnCip03gUoqNeVWKe-32" value="Demande l&#39;identité" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="t6JFnCip03gUoqNeVWKe-32" value="Demande d&#39;identité" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="155" y="190" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t6JFnCip03gUoqNeVWKe-63" value="" style="endArrow=none;html=1;exitX=0.062;exitY=0.735;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t6JFnCip03gUoqNeVWKe-19" target="t6JFnCip03gUoqNeVWKe-32" edge="1">
@@ -244,8 +238,8 @@
             <mxPoint x="260" y="202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t6JFnCip03gUoqNeVWKe-42" value="Transfert" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="177.5" y="270" width="65" height="20" as="geometry" />
+        <mxCell id="t6JFnCip03gUoqNeVWKe-42" value="Transfert du message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="148.75" y="270" width="122.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t6JFnCip03gUoqNeVWKe-65" value="" style="endArrow=none;html=1;exitX=0.062;exitY=0.735;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="t6JFnCip03gUoqNeVWKe-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -271,7 +265,7 @@
             <mxPoint x="270" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t6JFnCip03gUoqNeVWKe-33" value="Renvoie l&#39;identité" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="t6JFnCip03gUoqNeVWKe-33" value="Renvoi d&#39;identité" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="230" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t6JFnCip03gUoqNeVWKe-69" value="" style="endArrow=none;html=1;exitX=0.125;exitY=0.614;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t6JFnCip03gUoqNeVWKe-22" target="t6JFnCip03gUoqNeVWKe-33" edge="1">
@@ -279,6 +273,24 @@
             <mxPoint x="33.86000000000013" y="240" as="sourcePoint" />
             <mxPoint x="367.57000000000016" y="240.63999999999987" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t6JFnCip03gUoqNeVWKe-55" value="Transfert du message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="135" y="560" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nKtQFev7fTb3sqEppldj-1" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="t6JFnCip03gUoqNeVWKe-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" y="570.3199999999997" as="sourcePoint" />
+            <mxPoint x="40" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t6JFnCip03gUoqNeVWKe-54" value="&amp;nbsp; Renvoi ACCEPT/REJECT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="503.13" y="560" width="163.74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nKtQFev7fTb3sqEppldj-3" value="" style="endArrow=none;html=1;exitX=0.188;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="t6JFnCip03gUoqNeVWKe-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="782.5" y="570" as="sourcePoint" />
+            <mxPoint x="387.5" y="570.6799999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
